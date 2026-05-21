@@ -168,6 +168,12 @@ The application supports exported WhatsApp chat files in `.txt` format.
 
 ---
 
+## Deployment
+
+- streamlit community cloud : https://vishakha12p-conversalens-app-fkllge.streamlit.app/
+
+---
+
 ## Future Enhancements
 
 - AI-based sentiment analysis
